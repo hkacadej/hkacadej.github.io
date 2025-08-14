@@ -1,9 +1,9 @@
         // Typing animation
         const texts = [
             "Java Developer",
-            "Spring Boot Expert", 
-            "Banking Systems Specialist",
-            "Microservices Architect",
+            "Spring Boot Developer", 
+            "Banking Systems Developer",
+            "Microservices Architecture",
             "Full Stack Engineer"
         ];
         
